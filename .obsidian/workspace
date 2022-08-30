@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c0b06db621eed759",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeff3a08c7bde4a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guards.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a52c4de5cce71f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c05faee7f30fc3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d88a59f76d0d59fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea1c08b8136ca5d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a0d809bff4e6b29",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a47238836a351c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6f69251db72866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6118ab73712ece",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5170cf8f0888bcf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Guards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8aad770782a3f49f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30083fbf1ea50331",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guards.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aeff3a08c7bde4a9",
+  "lastOpenFiles": [
+    "Indice.md",
+    "Guards.md",
+    "Directivas Estructurales.md",
+    "Directiva de Atributo.md",
+    "Interpolacion.md",
+    "Directivas.md",
+    "Directivas de componentes.md",
+    "Child Route.md",
+    "Query Params.md",
+    "Routing-oulet.md"
+  ]
+}
