@@ -19,5 +19,5 @@
 	- [[Query Params]]
 	- [[Child Route]]
 - Observables
-- Pipes
+- [[Pipes]]
 - [[Guards]]

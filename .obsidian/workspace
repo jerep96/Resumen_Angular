@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aeff3a08c7bde4a9",
+        "id": "d4cf0c1e8fef7384",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guards.md",
+            "file": "Pipes.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guards.md",
+                "file": "Pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guards.md",
+                "file": "Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guards.md"
+                "file": "Pipes.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aeff3a08c7bde4a9",
+  "active": "d4cf0c1e8fef7384",
   "lastOpenFiles": [
+    "Pipes.md",
     "Indice.md",
+    "CLI.md",
     "Guards.md",
     "Directivas Estructurales.md",
     "Directiva de Atributo.md",
     "Interpolacion.md",
     "Directivas.md",
     "Directivas de componentes.md",
-    "Child Route.md",
-    "Query Params.md",
-    "Routing-oulet.md"
+    "Child Route.md"
   ]
 }
